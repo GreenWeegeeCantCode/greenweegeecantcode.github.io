@@ -1,3 +1,5 @@
+[![License - MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=2ea44f&style=for-the-badge)](https://)
+
 # greenweegeecantcode.github.io
 cool 90s looking site
 
