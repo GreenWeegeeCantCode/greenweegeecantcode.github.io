@@ -1,14 +1,11 @@
 [![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://greenweegeecantcode.github.io/greenweegeecantcode.github.io/)
 
 
-[![License - MIT](https://img.shields.io/badge/License-MIT-2ea44f)](https://)
-
 [![Made with - MS FPE](https://img.shields.io/badge/Made_with-MS_FPE-ffgf00)](https://)
 
 
 [![GitHub tag](https://img.shields.io/github/tag/GreenWeegeeCantCode/greenweegeecantcode.github.io?include_prereleases=&sort=semver&color=green)](https://github.com/GreenWeegeeCantCode/greenweegeecantcode.github.io/releases/)
 
-*Released under [MIT](/LICENSE) by [@GreenWeegeeCantCode](https://github.com/GreenWeegeeCantCode).*
 
 # greenweegeecantcode.github.io
 cool 90s looking site
